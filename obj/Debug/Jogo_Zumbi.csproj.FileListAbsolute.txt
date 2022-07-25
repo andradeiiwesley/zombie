@@ -1,0 +1,10 @@
+C:\Users\Wesley.Andrade\source\repos\Jogo_Zumbi\bin\Debug\Jogo_Zumbi.exe.config
+C:\Users\Wesley.Andrade\source\repos\Jogo_Zumbi\bin\Debug\Jogo_Zumbi.exe
+C:\Users\Wesley.Andrade\source\repos\Jogo_Zumbi\bin\Debug\Jogo_Zumbi.pdb
+C:\Users\Wesley.Andrade\source\repos\Jogo_Zumbi\obj\Debug\Jogo_Zumbi.csproj.AssemblyReference.cache
+C:\Users\Wesley.Andrade\source\repos\Jogo_Zumbi\obj\Debug\Jogo_Zumbi.Form1.resources
+C:\Users\Wesley.Andrade\source\repos\Jogo_Zumbi\obj\Debug\Jogo_Zumbi.Properties.Resources.resources
+C:\Users\Wesley.Andrade\source\repos\Jogo_Zumbi\obj\Debug\Jogo_Zumbi.csproj.GenerateResource.cache
+C:\Users\Wesley.Andrade\source\repos\Jogo_Zumbi\obj\Debug\Jogo_Zumbi.csproj.CoreCompileInputs.cache
+C:\Users\Wesley.Andrade\source\repos\Jogo_Zumbi\obj\Debug\Jogo_Zumbi.exe
+C:\Users\Wesley.Andrade\source\repos\Jogo_Zumbi\obj\Debug\Jogo_Zumbi.pdb
